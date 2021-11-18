@@ -1,4 +1,4 @@
-In this assignment, we implemented a navigation planner, and integrated it with obstacle avoidance and particle filter localization algorithms to allow the robot to autonomously drive around an indoor environment. We used starter code given in the course Autonomous Robots.
+In this assignment, my team member and I implemented a navigation planner, and integrated it with obstacle avoidance and particle filter localization algorithms to allow the robot to autonomously drive around an indoor environment. We used starter code given in the course Autonomous Robots.
 
 ## Algorithm Description
 1. Graph creation: Once the map is loaded all possible vertices are created at a given resolution. The graph is created by imposing an 8-connected grid on all the vertices. Graph edges that intersect map lines are removed. 
